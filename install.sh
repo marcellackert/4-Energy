@@ -1,1 +1,3 @@
+install_first_step_now
+install_second_step_now
 install_third_step_now
